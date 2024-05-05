@@ -1,0 +1,799 @@
+is_global = true
+build_property.TargetFramework = net8.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = ynex
+build_property.RootNamespace = ynex
+build_property.ProjectDir = D:\FINALS\21-12-2023\ynex-tailwind-dotnet\final\mvc\ynex\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.RazorLangVersion = 8.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = D:\FINALS\21-12-2023\ynex-tailwind-dotnet\final\mvc\ynex
+build_property._RazorSourceGeneratorDebug = 
+
+[D:/FINALS/21-12-2023/ynex-tailwind-dotnet/final/mvc/ynex/Views/Advancedui/accordions_collapse.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWR2YW5jZWR1aVxhY2NvcmRpb25zX2NvbGxhcHNlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/FINALS/21-12-2023/ynex-tailwind-dotnet/final/mvc/ynex/Views/Advancedui/draggable_cards.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWR2YW5jZWR1aVxkcmFnZ2FibGVfY2FyZHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/FINALS/21-12-2023/ynex-tailwind-dotnet/final/mvc/ynex/Views/Advancedui/modals_closes.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWR2YW5jZWR1aVxtb2RhbHNfY2xvc2VzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/FINALS/21-12-2023/ynex-tailwind-dotnet/final/mvc/ynex/Views/Advancedui/navbars.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWR2YW5jZWR1aVxuYXZiYXJzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/FINALS/21-12-2023/ynex-tailwind-dotnet/final/mvc/ynex/Views/Advancedui/offcanvas.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWR2YW5jZWR1aVxvZmZjYW52YXMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/FINALS/21-12-2023/ynex-tailwind-dotnet/final/mvc/ynex/Views/Advancedui/ratings.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWR2YW5jZWR1aVxyYXRpbmdzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/FINALS/21-12-2023/ynex-tailwind-dotnet/final/mvc/ynex/Views/Advancedui/scrollspy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWR2YW5jZWR1aVxzY3JvbGxzcHkuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/FINALS/21-12-2023/ynex-tailwind-dotnet/final/mvc/ynex/Views/Advancedui/swiperjs.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWR2YW5jZWR1aVxzd2lwZXJqcy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/FINALS/21-12-2023/ynex-tailwind-dotnet/final/mvc/ynex/Views/Apps/crm_companies.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXBwc1xjcm1fY29tcGFuaWVzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/FINALS/21-12-2023/ynex-tailwind-dotnet/final/mvc/ynex/Views/Apps/crm_contacts.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXBwc1xjcm1fY29udGFjdHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/FINALS/21-12-2023/ynex-tailwind-dotnet/final/mvc/ynex/Views/Apps/crm_deals.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXBwc1xjcm1fZGVhbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/FINALS/21-12-2023/ynex-tailwind-dotnet/final/mvc/ynex/Views/Apps/crm_leads.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXBwc1xjcm1fbGVhZHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/FINALS/21-12-2023/ynex-tailwind-dotnet/final/mvc/ynex/Views/Apps/crypto_buysell.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXBwc1xjcnlwdG9fYnV5c2VsbC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/FINALS/21-12-2023/ynex-tailwind-dotnet/final/mvc/ynex/Views/Apps/crypto_currency_exchange.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXBwc1xjcnlwdG9fY3VycmVuY3lfZXhjaGFuZ2UuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/FINALS/21-12-2023/ynex-tailwind-dotnet/final/mvc/ynex/Views/Apps/crypto_marketcap.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXBwc1xjcnlwdG9fbWFya2V0Y2FwLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/FINALS/21-12-2023/ynex-tailwind-dotnet/final/mvc/ynex/Views/Apps/crypto_transactions.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXBwc1xjcnlwdG9fdHJhbnNhY3Rpb25zLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/FINALS/21-12-2023/ynex-tailwind-dotnet/final/mvc/ynex/Views/Apps/crypto_wallet.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXBwc1xjcnlwdG9fd2FsbGV0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/FINALS/21-12-2023/ynex-tailwind-dotnet/final/mvc/ynex/Views/Apps/full_calendar.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXBwc1xmdWxsX2NhbGVuZGFyLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/FINALS/21-12-2023/ynex-tailwind-dotnet/final/mvc/ynex/Views/Apps/gallery.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXBwc1xnYWxsZXJ5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/FINALS/21-12-2023/ynex-tailwind-dotnet/final/mvc/ynex/Views/Apps/job_candidate_details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXBwc1xqb2JfY2FuZGlkYXRlX2RldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/FINALS/21-12-2023/ynex-tailwind-dotnet/final/mvc/ynex/Views/Apps/job_candidate_search.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXBwc1xqb2JfY2FuZGlkYXRlX3NlYXJjaC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/FINALS/21-12-2023/ynex-tailwind-dotnet/final/mvc/ynex/Views/Apps/job_company_search.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXBwc1xqb2JfY29tcGFueV9zZWFyY2guY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/FINALS/21-12-2023/ynex-tailwind-dotnet/final/mvc/ynex/Views/Apps/job_details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXBwc1xqb2JfZGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/FINALS/21-12-2023/ynex-tailwind-dotnet/final/mvc/ynex/Views/Apps/job_list.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXBwc1xqb2JfbGlzdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/FINALS/21-12-2023/ynex-tailwind-dotnet/final/mvc/ynex/Views/Apps/job_post.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXBwc1xqb2JfcG9zdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/FINALS/21-12-2023/ynex-tailwind-dotnet/final/mvc/ynex/Views/Apps/job_search.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXBwc1xqb2Jfc2VhcmNoLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/FINALS/21-12-2023/ynex-tailwind-dotnet/final/mvc/ynex/Views/Apps/nft_create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXBwc1xuZnRfY3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/FINALS/21-12-2023/ynex-tailwind-dotnet/final/mvc/ynex/Views/Apps/nft_details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXBwc1xuZnRfZGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/FINALS/21-12-2023/ynex-tailwind-dotnet/final/mvc/ynex/Views/Apps/nft_live_auction.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXBwc1xuZnRfbGl2ZV9hdWN0aW9uLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/FINALS/21-12-2023/ynex-tailwind-dotnet/final/mvc/ynex/Views/Apps/nft_marketplace.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXBwc1xuZnRfbWFya2V0cGxhY2UuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/FINALS/21-12-2023/ynex-tailwind-dotnet/final/mvc/ynex/Views/Apps/nft_wallet_integration.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXBwc1xuZnRfd2FsbGV0X2ludGVncmF0aW9uLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/FINALS/21-12-2023/ynex-tailwind-dotnet/final/mvc/ynex/Views/Apps/projects_create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXBwc1xwcm9qZWN0c19jcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/FINALS/21-12-2023/ynex-tailwind-dotnet/final/mvc/ynex/Views/Apps/projects_list.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXBwc1xwcm9qZWN0c19saXN0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/FINALS/21-12-2023/ynex-tailwind-dotnet/final/mvc/ynex/Views/Apps/projects_overview.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXBwc1xwcm9qZWN0c19vdmVydmlldy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/FINALS/21-12-2023/ynex-tailwind-dotnet/final/mvc/ynex/Views/Authentication/comingsoon.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXV0aGVudGljYXRpb25cY29taW5nc29vbi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/FINALS/21-12-2023/ynex-tailwind-dotnet/final/mvc/ynex/Views/Authentication/createpassword_basic.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXV0aGVudGljYXRpb25cY3JlYXRlcGFzc3dvcmRfYmFzaWMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/FINALS/21-12-2023/ynex-tailwind-dotnet/final/mvc/ynex/Views/Authentication/createpassword_cover.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXV0aGVudGljYXRpb25cY3JlYXRlcGFzc3dvcmRfY292ZXIuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/FINALS/21-12-2023/ynex-tailwind-dotnet/final/mvc/ynex/Views/Authentication/lockscreen_basic.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXV0aGVudGljYXRpb25cbG9ja3NjcmVlbl9iYXNpYy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/FINALS/21-12-2023/ynex-tailwind-dotnet/final/mvc/ynex/Views/Authentication/lockscreen_cover.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXV0aGVudGljYXRpb25cbG9ja3NjcmVlbl9jb3Zlci5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/FINALS/21-12-2023/ynex-tailwind-dotnet/final/mvc/ynex/Views/Authentication/resetpassword_basic.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXV0aGVudGljYXRpb25ccmVzZXRwYXNzd29yZF9iYXNpYy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/FINALS/21-12-2023/ynex-tailwind-dotnet/final/mvc/ynex/Views/Authentication/resetpassword_cover.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXV0aGVudGljYXRpb25ccmVzZXRwYXNzd29yZF9jb3Zlci5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/FINALS/21-12-2023/ynex-tailwind-dotnet/final/mvc/ynex/Views/Authentication/signin_basic.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXV0aGVudGljYXRpb25cc2lnbmluX2Jhc2ljLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/FINALS/21-12-2023/ynex-tailwind-dotnet/final/mvc/ynex/Views/Authentication/signin_cover.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXV0aGVudGljYXRpb25cc2lnbmluX2NvdmVyLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/FINALS/21-12-2023/ynex-tailwind-dotnet/final/mvc/ynex/Views/Authentication/signup_basic.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXV0aGVudGljYXRpb25cc2lnbnVwX2Jhc2ljLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/FINALS/21-12-2023/ynex-tailwind-dotnet/final/mvc/ynex/Views/Authentication/signup_cover.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXV0aGVudGljYXRpb25cc2lnbnVwX2NvdmVyLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/FINALS/21-12-2023/ynex-tailwind-dotnet/final/mvc/ynex/Views/Authentication/twostep_verification_basic.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXV0aGVudGljYXRpb25cdHdvc3RlcF92ZXJpZmljYXRpb25fYmFzaWMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/FINALS/21-12-2023/ynex-tailwind-dotnet/final/mvc/ynex/Views/Authentication/twostep_verification_cover.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXV0aGVudGljYXRpb25cdHdvc3RlcF92ZXJpZmljYXRpb25fY292ZXIuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/FINALS/21-12-2023/ynex-tailwind-dotnet/final/mvc/ynex/Views/Authentication/under_maintenance.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXV0aGVudGljYXRpb25cdW5kZXJfbWFpbnRlbmFuY2UuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/FINALS/21-12-2023/ynex-tailwind-dotnet/final/mvc/ynex/Views/Charts/apex_area_charts.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2hhcnRzXGFwZXhfYXJlYV9jaGFydHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/FINALS/21-12-2023/ynex-tailwind-dotnet/final/mvc/ynex/Views/Charts/apex_bar_charts.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2hhcnRzXGFwZXhfYmFyX2NoYXJ0cy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/FINALS/21-12-2023/ynex-tailwind-dotnet/final/mvc/ynex/Views/Charts/apex_boxplot_charts.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2hhcnRzXGFwZXhfYm94cGxvdF9jaGFydHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/FINALS/21-12-2023/ynex-tailwind-dotnet/final/mvc/ynex/Views/Charts/apex_bubble_charts.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2hhcnRzXGFwZXhfYnViYmxlX2NoYXJ0cy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/FINALS/21-12-2023/ynex-tailwind-dotnet/final/mvc/ynex/Views/Charts/apex_candlestick_charts.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2hhcnRzXGFwZXhfY2FuZGxlc3RpY2tfY2hhcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/FINALS/21-12-2023/ynex-tailwind-dotnet/final/mvc/ynex/Views/Charts/apex_column_charts.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2hhcnRzXGFwZXhfY29sdW1uX2NoYXJ0cy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/FINALS/21-12-2023/ynex-tailwind-dotnet/final/mvc/ynex/Views/Charts/apex_heatmap_charts.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2hhcnRzXGFwZXhfaGVhdG1hcF9jaGFydHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/FINALS/21-12-2023/ynex-tailwind-dotnet/final/mvc/ynex/Views/Charts/apex_line_charts.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2hhcnRzXGFwZXhfbGluZV9jaGFydHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/FINALS/21-12-2023/ynex-tailwind-dotnet/final/mvc/ynex/Views/Charts/apex_mixed_charts.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2hhcnRzXGFwZXhfbWl4ZWRfY2hhcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/FINALS/21-12-2023/ynex-tailwind-dotnet/final/mvc/ynex/Views/Charts/apex_pie_charts.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2hhcnRzXGFwZXhfcGllX2NoYXJ0cy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/FINALS/21-12-2023/ynex-tailwind-dotnet/final/mvc/ynex/Views/Charts/apex_polararea_charts.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2hhcnRzXGFwZXhfcG9sYXJhcmVhX2NoYXJ0cy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/FINALS/21-12-2023/ynex-tailwind-dotnet/final/mvc/ynex/Views/Charts/apex_radar_charts.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2hhcnRzXGFwZXhfcmFkYXJfY2hhcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/FINALS/21-12-2023/ynex-tailwind-dotnet/final/mvc/ynex/Views/Charts/apex_radialbar_charts.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2hhcnRzXGFwZXhfcmFkaWFsYmFyX2NoYXJ0cy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/FINALS/21-12-2023/ynex-tailwind-dotnet/final/mvc/ynex/Views/Charts/apex_rangearea_charts.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2hhcnRzXGFwZXhfcmFuZ2VhcmVhX2NoYXJ0cy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/FINALS/21-12-2023/ynex-tailwind-dotnet/final/mvc/ynex/Views/Charts/apex_scatter_charts.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2hhcnRzXGFwZXhfc2NhdHRlcl9jaGFydHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/FINALS/21-12-2023/ynex-tailwind-dotnet/final/mvc/ynex/Views/Charts/apex_timeline_charts.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2hhcnRzXGFwZXhfdGltZWxpbmVfY2hhcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/FINALS/21-12-2023/ynex-tailwind-dotnet/final/mvc/ynex/Views/Charts/apex_treemap_charts.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2hhcnRzXGFwZXhfdHJlZW1hcF9jaGFydHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/FINALS/21-12-2023/ynex-tailwind-dotnet/final/mvc/ynex/Views/Charts/chartjs.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2hhcnRzXGNoYXJ0anMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/FINALS/21-12-2023/ynex-tailwind-dotnet/final/mvc/ynex/Views/Charts/echarts.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2hhcnRzXGVjaGFydHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/FINALS/21-12-2023/ynex-tailwind-dotnet/final/mvc/ynex/Views/Error/error401.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRXJyb3JcZXJyb3I0MDEuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/FINALS/21-12-2023/ynex-tailwind-dotnet/final/mvc/ynex/Views/Error/error404.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRXJyb3JcZXJyb3I0MDQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/FINALS/21-12-2023/ynex-tailwind-dotnet/final/mvc/ynex/Views/Error/error500.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRXJyb3JcZXJyb3I1MDAuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/FINALS/21-12-2023/ynex-tailwind-dotnet/final/mvc/ynex/Views/Forms/form_check_radios.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRm9ybXNcZm9ybV9jaGVja19yYWRpb3MuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/FINALS/21-12-2023/ynex-tailwind-dotnet/final/mvc/ynex/Views/Forms/form_color_pickers.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRm9ybXNcZm9ybV9jb2xvcl9waWNrZXJzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/FINALS/21-12-2023/ynex-tailwind-dotnet/final/mvc/ynex/Views/Forms/form_datetime_pickers.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRm9ybXNcZm9ybV9kYXRldGltZV9waWNrZXJzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/FINALS/21-12-2023/ynex-tailwind-dotnet/final/mvc/ynex/Views/Forms/form_file_uploads.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRm9ybXNcZm9ybV9maWxlX3VwbG9hZHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/FINALS/21-12-2023/ynex-tailwind-dotnet/final/mvc/ynex/Views/Forms/form_inputs.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRm9ybXNcZm9ybV9pbnB1dHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/FINALS/21-12-2023/ynex-tailwind-dotnet/final/mvc/ynex/Views/Forms/form_input_groups.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRm9ybXNcZm9ybV9pbnB1dF9ncm91cHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/FINALS/21-12-2023/ynex-tailwind-dotnet/final/mvc/ynex/Views/Forms/form_layouts.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRm9ybXNcZm9ybV9sYXlvdXRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/FINALS/21-12-2023/ynex-tailwind-dotnet/final/mvc/ynex/Views/Forms/form_range.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRm9ybXNcZm9ybV9yYW5nZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/FINALS/21-12-2023/ynex-tailwind-dotnet/final/mvc/ynex/Views/Forms/form_select.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRm9ybXNcZm9ybV9zZWxlY3QuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/FINALS/21-12-2023/ynex-tailwind-dotnet/final/mvc/ynex/Views/Forms/form_select2.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRm9ybXNcZm9ybV9zZWxlY3QyLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/FINALS/21-12-2023/ynex-tailwind-dotnet/final/mvc/ynex/Views/Forms/form_validations.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRm9ybXNcZm9ybV92YWxpZGF0aW9ucy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/FINALS/21-12-2023/ynex-tailwind-dotnet/final/mvc/ynex/Views/Forms/quill_editor.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRm9ybXNccXVpbGxfZWRpdG9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/FINALS/21-12-2023/ynex-tailwind-dotnet/final/mvc/ynex/Views/Home/index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxpbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/FINALS/21-12-2023/ynex-tailwind-dotnet/final/mvc/ynex/Views/Home/index10.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxpbmRleDEwLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/FINALS/21-12-2023/ynex-tailwind-dotnet/final/mvc/ynex/Views/Home/index11.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxpbmRleDExLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/FINALS/21-12-2023/ynex-tailwind-dotnet/final/mvc/ynex/Views/Home/index12.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxpbmRleDEyLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/FINALS/21-12-2023/ynex-tailwind-dotnet/final/mvc/ynex/Views/Home/index2.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxpbmRleDIuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/FINALS/21-12-2023/ynex-tailwind-dotnet/final/mvc/ynex/Views/Home/index3.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxpbmRleDMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/FINALS/21-12-2023/ynex-tailwind-dotnet/final/mvc/ynex/Views/Home/index4.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxpbmRleDQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/FINALS/21-12-2023/ynex-tailwind-dotnet/final/mvc/ynex/Views/Home/index5.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxpbmRleDUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/FINALS/21-12-2023/ynex-tailwind-dotnet/final/mvc/ynex/Views/Home/index6.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxpbmRleDYuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/FINALS/21-12-2023/ynex-tailwind-dotnet/final/mvc/ynex/Views/Home/index7.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxpbmRleDcuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/FINALS/21-12-2023/ynex-tailwind-dotnet/final/mvc/ynex/Views/Home/index8.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxpbmRleDguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/FINALS/21-12-2023/ynex-tailwind-dotnet/final/mvc/ynex/Views/Home/index9.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxpbmRleDkuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/FINALS/21-12-2023/ynex-tailwind-dotnet/final/mvc/ynex/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/FINALS/21-12-2023/ynex-tailwind-dotnet/final/mvc/ynex/Views/Icons/icons.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSWNvbnNcaWNvbnMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/FINALS/21-12-2023/ynex-tailwind-dotnet/final/mvc/ynex/Views/Maps/google_maps.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWFwc1xnb29nbGVfbWFwcy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/FINALS/21-12-2023/ynex-tailwind-dotnet/final/mvc/ynex/Views/Maps/leaflet_maps.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWFwc1xsZWFmbGV0X21hcHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/FINALS/21-12-2023/ynex-tailwind-dotnet/final/mvc/ynex/Views/Maps/vector_maps.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWFwc1x2ZWN0b3JfbWFwcy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/FINALS/21-12-2023/ynex-tailwind-dotnet/final/mvc/ynex/Views/Pages/aboutus.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGFnZXNcYWJvdXR1cy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/FINALS/21-12-2023/ynex-tailwind-dotnet/final/mvc/ynex/Views/Pages/add_products.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGFnZXNcYWRkX3Byb2R1Y3RzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/FINALS/21-12-2023/ynex-tailwind-dotnet/final/mvc/ynex/Views/Pages/blog.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGFnZXNcYmxvZy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/FINALS/21-12-2023/ynex-tailwind-dotnet/final/mvc/ynex/Views/Pages/blog_create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGFnZXNcYmxvZ19jcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/FINALS/21-12-2023/ynex-tailwind-dotnet/final/mvc/ynex/Views/Pages/blog_details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGFnZXNcYmxvZ19kZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/FINALS/21-12-2023/ynex-tailwind-dotnet/final/mvc/ynex/Views/Pages/cart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGFnZXNcY2FydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/FINALS/21-12-2023/ynex-tailwind-dotnet/final/mvc/ynex/Views/Pages/chat.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGFnZXNcY2hhdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/FINALS/21-12-2023/ynex-tailwind-dotnet/final/mvc/ynex/Views/Pages/checkout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGFnZXNcY2hlY2tvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/FINALS/21-12-2023/ynex-tailwind-dotnet/final/mvc/ynex/Views/Pages/contacts.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGFnZXNcY29udGFjdHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/FINALS/21-12-2023/ynex-tailwind-dotnet/final/mvc/ynex/Views/Pages/contactus.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGFnZXNcY29udGFjdHVzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/FINALS/21-12-2023/ynex-tailwind-dotnet/final/mvc/ynex/Views/Pages/edit_products.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGFnZXNcZWRpdF9wcm9kdWN0cy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/FINALS/21-12-2023/ynex-tailwind-dotnet/final/mvc/ynex/Views/Pages/empty_page.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGFnZXNcZW1wdHlfcGFnZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/FINALS/21-12-2023/ynex-tailwind-dotnet/final/mvc/ynex/Views/Pages/faqs.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGFnZXNcZmFxcy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/FINALS/21-12-2023/ynex-tailwind-dotnet/final/mvc/ynex/Views/Pages/filemanager.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGFnZXNcZmlsZW1hbmFnZXIuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/FINALS/21-12-2023/ynex-tailwind-dotnet/final/mvc/ynex/Views/Pages/invoice_create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGFnZXNcaW52b2ljZV9jcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/FINALS/21-12-2023/ynex-tailwind-dotnet/final/mvc/ynex/Views/Pages/invoice_details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGFnZXNcaW52b2ljZV9kZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/FINALS/21-12-2023/ynex-tailwind-dotnet/final/mvc/ynex/Views/Pages/invoice_list.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGFnZXNcaW52b2ljZV9saXN0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/FINALS/21-12-2023/ynex-tailwind-dotnet/final/mvc/ynex/Views/Pages/landing.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGFnZXNcbGFuZGluZy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/FINALS/21-12-2023/ynex-tailwind-dotnet/final/mvc/ynex/Views/Pages/landing_jobs.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGFnZXNcbGFuZGluZ19qb2JzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/FINALS/21-12-2023/ynex-tailwind-dotnet/final/mvc/ynex/Views/Pages/mail.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGFnZXNcbWFpbC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/FINALS/21-12-2023/ynex-tailwind-dotnet/final/mvc/ynex/Views/Pages/mail_settings.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGFnZXNcbWFpbF9zZXR0aW5ncy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/FINALS/21-12-2023/ynex-tailwind-dotnet/final/mvc/ynex/Views/Pages/notifications.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGFnZXNcbm90aWZpY2F0aW9ucy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/FINALS/21-12-2023/ynex-tailwind-dotnet/final/mvc/ynex/Views/Pages/orders.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGFnZXNcb3JkZXJzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/FINALS/21-12-2023/ynex-tailwind-dotnet/final/mvc/ynex/Views/Pages/order_details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGFnZXNcb3JkZXJfZGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/FINALS/21-12-2023/ynex-tailwind-dotnet/final/mvc/ynex/Views/Pages/pricing.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGFnZXNccHJpY2luZy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/FINALS/21-12-2023/ynex-tailwind-dotnet/final/mvc/ynex/Views/Pages/products.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGFnZXNccHJvZHVjdHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/FINALS/21-12-2023/ynex-tailwind-dotnet/final/mvc/ynex/Views/Pages/products_details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGFnZXNccHJvZHVjdHNfZGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/FINALS/21-12-2023/ynex-tailwind-dotnet/final/mvc/ynex/Views/Pages/products_list.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGFnZXNccHJvZHVjdHNfbGlzdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/FINALS/21-12-2023/ynex-tailwind-dotnet/final/mvc/ynex/Views/Pages/profile.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGFnZXNccHJvZmlsZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/FINALS/21-12-2023/ynex-tailwind-dotnet/final/mvc/ynex/Views/Pages/reviews.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGFnZXNccmV2aWV3cy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/FINALS/21-12-2023/ynex-tailwind-dotnet/final/mvc/ynex/Views/Pages/team.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGFnZXNcdGVhbS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/FINALS/21-12-2023/ynex-tailwind-dotnet/final/mvc/ynex/Views/Pages/terms.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGFnZXNcdGVybXMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/FINALS/21-12-2023/ynex-tailwind-dotnet/final/mvc/ynex/Views/Pages/timeline.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGFnZXNcdGltZWxpbmUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/FINALS/21-12-2023/ynex-tailwind-dotnet/final/mvc/ynex/Views/Pages/todo.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGFnZXNcdG9kby5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/FINALS/21-12-2023/ynex-tailwind-dotnet/final/mvc/ynex/Views/Pages/wishlist.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGFnZXNcd2lzaGxpc3QuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/FINALS/21-12-2023/ynex-tailwind-dotnet/final/mvc/ynex/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/FINALS/21-12-2023/ynex-tailwind-dotnet/final/mvc/ynex/Views/Shared/Layouts/landing/_footer.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXExheW91dHNcbGFuZGluZ1xfZm9vdGVyLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/FINALS/21-12-2023/ynex-tailwind-dotnet/final/mvc/ynex/Views/Shared/Layouts/landing/_header.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXExheW91dHNcbGFuZGluZ1xfaGVhZGVyLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/FINALS/21-12-2023/ynex-tailwind-dotnet/final/mvc/ynex/Views/Shared/Layouts/landing/_header1.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXExheW91dHNcbGFuZGluZ1xfaGVhZGVyMS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/FINALS/21-12-2023/ynex-tailwind-dotnet/final/mvc/ynex/Views/Shared/Layouts/landing/_jobs-footer.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXExheW91dHNcbGFuZGluZ1xfam9icy1mb290ZXIuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/FINALS/21-12-2023/ynex-tailwind-dotnet/final/mvc/ynex/Views/Shared/Layouts/landing/_jobs-header.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXExheW91dHNcbGFuZGluZ1xfam9icy1oZWFkZXIuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/FINALS/21-12-2023/ynex-tailwind-dotnet/final/mvc/ynex/Views/Shared/Layouts/landing/_jobs-header1.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXExheW91dHNcbGFuZGluZ1xfam9icy1oZWFkZXIxLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/FINALS/21-12-2023/ynex-tailwind-dotnet/final/mvc/ynex/Views/Shared/Layouts/landing/_jobs-sidebar.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXExheW91dHNcbGFuZGluZ1xfam9icy1zaWRlYmFyLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/FINALS/21-12-2023/ynex-tailwind-dotnet/final/mvc/ynex/Views/Shared/Layouts/landing/_jobs-sidebar1.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXExheW91dHNcbGFuZGluZ1xfam9icy1zaWRlYmFyMS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/FINALS/21-12-2023/ynex-tailwind-dotnet/final/mvc/ynex/Views/Shared/Layouts/landing/_scripts.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXExheW91dHNcbGFuZGluZ1xfc2NyaXB0cy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/FINALS/21-12-2023/ynex-tailwind-dotnet/final/mvc/ynex/Views/Shared/Layouts/landing/_sidebar.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXExheW91dHNcbGFuZGluZ1xfc2lkZWJhci5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/FINALS/21-12-2023/ynex-tailwind-dotnet/final/mvc/ynex/Views/Shared/Layouts/landing/_sidebar1.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXExheW91dHNcbGFuZGluZ1xfc2lkZWJhcjEuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/FINALS/21-12-2023/ynex-tailwind-dotnet/final/mvc/ynex/Views/Shared/Layouts/landing/_styles.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXExheW91dHNcbGFuZGluZ1xfc3R5bGVzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/FINALS/21-12-2023/ynex-tailwind-dotnet/final/mvc/ynex/Views/Shared/Layouts/landing/_switcher.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXExheW91dHNcbGFuZGluZ1xfc3dpdGNoZXIuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/FINALS/21-12-2023/ynex-tailwind-dotnet/final/mvc/ynex/Views/Shared/Layouts/_footer.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXExheW91dHNcX2Zvb3Rlci5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/FINALS/21-12-2023/ynex-tailwind-dotnet/final/mvc/ynex/Views/Shared/Layouts/_header.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXExheW91dHNcX2hlYWRlci5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/FINALS/21-12-2023/ynex-tailwind-dotnet/final/mvc/ynex/Views/Shared/Layouts/_header1.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXExheW91dHNcX2hlYWRlcjEuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/FINALS/21-12-2023/ynex-tailwind-dotnet/final/mvc/ynex/Views/Shared/Layouts/_scripts.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXExheW91dHNcX3NjcmlwdHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/FINALS/21-12-2023/ynex-tailwind-dotnet/final/mvc/ynex/Views/Shared/Layouts/_search-modal.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXExheW91dHNcX3NlYXJjaC1tb2RhbC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/FINALS/21-12-2023/ynex-tailwind-dotnet/final/mvc/ynex/Views/Shared/Layouts/_sidebar.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXExheW91dHNcX3NpZGViYXIuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/FINALS/21-12-2023/ynex-tailwind-dotnet/final/mvc/ynex/Views/Shared/Layouts/_styles.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXExheW91dHNcX3N0eWxlcy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/FINALS/21-12-2023/ynex-tailwind-dotnet/final/mvc/ynex/Views/Shared/Layouts/_switcher.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXExheW91dHNcX3N3aXRjaGVyLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/FINALS/21-12-2023/ynex-tailwind-dotnet/final/mvc/ynex/Views/Shared/_LayoutAuth.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXRBdXRoLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/FINALS/21-12-2023/ynex-tailwind-dotnet/final/mvc/ynex/Views/Shared/_LayoutError.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXRFcnJvci5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/FINALS/21-12-2023/ynex-tailwind-dotnet/final/mvc/ynex/Views/Shared/_LayoutLan.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXRMYW4uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/FINALS/21-12-2023/ynex-tailwind-dotnet/final/mvc/ynex/Views/Shared/_LayoutLanjobs.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXRMYW5qb2JzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/FINALS/21-12-2023/ynex-tailwind-dotnet/final/mvc/ynex/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/FINALS/21-12-2023/ynex-tailwind-dotnet/final/mvc/ynex/Views/Tables/data_tables.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGFibGVzXGRhdGFfdGFibGVzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/FINALS/21-12-2023/ynex-tailwind-dotnet/final/mvc/ynex/Views/Tables/grid_tables.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGFibGVzXGdyaWRfdGFibGVzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/FINALS/21-12-2023/ynex-tailwind-dotnet/final/mvc/ynex/Views/Tables/tables.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGFibGVzXHRhYmxlcy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/FINALS/21-12-2023/ynex-tailwind-dotnet/final/mvc/ynex/Views/Task/task_details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGFza1x0YXNrX2RldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/FINALS/21-12-2023/ynex-tailwind-dotnet/final/mvc/ynex/Views/Task/task_kanban_board.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGFza1x0YXNrX2thbmJhbl9ib2FyZC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/FINALS/21-12-2023/ynex-tailwind-dotnet/final/mvc/ynex/Views/Task/task_listview.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGFza1x0YXNrX2xpc3R2aWV3LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/FINALS/21-12-2023/ynex-tailwind-dotnet/final/mvc/ynex/Views/Uielements/alerts.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVWllbGVtZW50c1xhbGVydHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/FINALS/21-12-2023/ynex-tailwind-dotnet/final/mvc/ynex/Views/Uielements/badges.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVWllbGVtZW50c1xiYWRnZXMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/FINALS/21-12-2023/ynex-tailwind-dotnet/final/mvc/ynex/Views/Uielements/breadcrumbs.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVWllbGVtZW50c1xicmVhZGNydW1icy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/FINALS/21-12-2023/ynex-tailwind-dotnet/final/mvc/ynex/Views/Uielements/buttongroups.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVWllbGVtZW50c1xidXR0b25ncm91cHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/FINALS/21-12-2023/ynex-tailwind-dotnet/final/mvc/ynex/Views/Uielements/buttons.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVWllbGVtZW50c1xidXR0b25zLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/FINALS/21-12-2023/ynex-tailwind-dotnet/final/mvc/ynex/Views/Uielements/cards.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVWllbGVtZW50c1xjYXJkcy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/FINALS/21-12-2023/ynex-tailwind-dotnet/final/mvc/ynex/Views/Uielements/dropdowns.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVWllbGVtZW50c1xkcm9wZG93bnMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/FINALS/21-12-2023/ynex-tailwind-dotnet/final/mvc/ynex/Views/Uielements/images_figures.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVWllbGVtZW50c1xpbWFnZXNfZmlndXJlcy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/FINALS/21-12-2023/ynex-tailwind-dotnet/final/mvc/ynex/Views/Uielements/indicators.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVWllbGVtZW50c1xpbmRpY2F0b3JzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/FINALS/21-12-2023/ynex-tailwind-dotnet/final/mvc/ynex/Views/Uielements/listgroups.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVWllbGVtZW50c1xsaXN0Z3JvdXBzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/FINALS/21-12-2023/ynex-tailwind-dotnet/final/mvc/ynex/Views/Uielements/navs_tabs.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVWllbGVtZW50c1xuYXZzX3RhYnMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/FINALS/21-12-2023/ynex-tailwind-dotnet/final/mvc/ynex/Views/Uielements/object_fit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVWllbGVtZW50c1xvYmplY3RfZml0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/FINALS/21-12-2023/ynex-tailwind-dotnet/final/mvc/ynex/Views/Uielements/paginations.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVWllbGVtZW50c1xwYWdpbmF0aW9ucy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/FINALS/21-12-2023/ynex-tailwind-dotnet/final/mvc/ynex/Views/Uielements/popovers.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVWllbGVtZW50c1xwb3BvdmVycy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/FINALS/21-12-2023/ynex-tailwind-dotnet/final/mvc/ynex/Views/Uielements/progress.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVWllbGVtZW50c1xwcm9ncmVzcy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/FINALS/21-12-2023/ynex-tailwind-dotnet/final/mvc/ynex/Views/Uielements/spinners.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVWllbGVtZW50c1xzcGlubmVycy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/FINALS/21-12-2023/ynex-tailwind-dotnet/final/mvc/ynex/Views/Uielements/toasts.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVWllbGVtZW50c1x0b2FzdHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/FINALS/21-12-2023/ynex-tailwind-dotnet/final/mvc/ynex/Views/Uielements/tooltips.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVWllbGVtZW50c1x0b29sdGlwcy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/FINALS/21-12-2023/ynex-tailwind-dotnet/final/mvc/ynex/Views/Utilities/avatars.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXRpbGl0aWVzXGF2YXRhcnMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/FINALS/21-12-2023/ynex-tailwind-dotnet/final/mvc/ynex/Views/Utilities/borders.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXRpbGl0aWVzXGJvcmRlcnMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/FINALS/21-12-2023/ynex-tailwind-dotnet/final/mvc/ynex/Views/Utilities/colors.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXRpbGl0aWVzXGNvbG9ycy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/FINALS/21-12-2023/ynex-tailwind-dotnet/final/mvc/ynex/Views/Utilities/columns.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXRpbGl0aWVzXGNvbHVtbnMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/FINALS/21-12-2023/ynex-tailwind-dotnet/final/mvc/ynex/Views/Utilities/flex.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXRpbGl0aWVzXGZsZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/FINALS/21-12-2023/ynex-tailwind-dotnet/final/mvc/ynex/Views/Utilities/grids.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXRpbGl0aWVzXGdyaWRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/FINALS/21-12-2023/ynex-tailwind-dotnet/final/mvc/ynex/Views/Widgets/widgets.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcV2lkZ2V0c1x3aWRnZXRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/FINALS/21-12-2023/ynex-tailwind-dotnet/final/mvc/ynex/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/FINALS/21-12-2023/ynex-tailwind-dotnet/final/mvc/ynex/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/FINALS/21-12-2023/ynex-tailwind-dotnet/final/mvc/ynex/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-i3xisn6apw
